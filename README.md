@@ -1,0 +1,1 @@
+# mechanical-MNIST-challenge-2025
